@@ -1,0 +1,2 @@
+script_key="VkEaxSprVVvFVaBGHLTTlCLZnFGKdukk";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectrumok/AmaterasuHub/main/main.lua"))()
